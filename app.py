@@ -22,11 +22,9 @@ from werkzeug.utils import secure_filename
 
 app = Flask(__name__)
 
-MODEL_PATH ='model_inceptionv3.h5'
+MODEL_PATH ='< Enter your model path here ( like model.h5) >'
 
 model = load_model(MODEL_PATH)
-
-
 
 
 def model_predict(img_path, model):
