@@ -1,4 +1,4 @@
-# Car brand classification 🚙🚗🚘🚐
+# Car brand classification 🚙🚗🚘🚐 [![Project Status: Inactive](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive)
 A simple web app that tells whether the uploaded image of a car is an :heart: Audi / Mercedes / Lamborghini ***(my dream car)*** :heart:
 
 ## Installation
