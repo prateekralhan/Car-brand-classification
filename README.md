@@ -1,4 +1,5 @@
-# Car brand classification 🚙🚗🚘🚐 [![Project Status: Inactive](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive)
+# Car brand classification 🚙🚗🚘🚐 [![Project Status: Inactive](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
+
 A simple web app that tells whether the uploaded image of a car is an :heart: Audi / Mercedes / Lamborghini ***(my dream car)*** :heart:
 
 ## Installation
